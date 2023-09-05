@@ -4,19 +4,19 @@
 I’m Prathmesh, an aspiring data analyst with a Big Data study background. I enjoy working with numbers and love learning and exploring new skills.
 
 📂 Complete Projects
-Here's my portfolio
+- Here's my portfolio
 
 💻 Competencies
-Data preparation, data manipulation, and data cleansing
-Exploratory data analysis
-Descriptive statistic
-Machine learning: supervised and unsupervised
+- Data preparation, data manipulation, and data cleansing
+- Exploratory data analysis
+- Descriptive statistic
+- Machine learning: supervised and unsupervised
 
 🪛 Tools
-Excel/spreadsheet
-SQL (Postgresql, MySQL, SQL Server)
-Python (Library: numpy, pandas, SciPy, sklearn)
-Visualization: Tableau, matplotlib, seaborn
+- Excel/spreadsheet
+- SQL (Postgresql, MySQL, SQL Server)
+- Python (Library: numpy, pandas, SciPy, sklearn)
+- Visualization: Tableau, matplotlib, seaborn
 
 
 <!--
