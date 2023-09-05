@@ -4,7 +4,7 @@
 I’m Prathmesh, an aspiring data analyst with a Big Data study background. I enjoy working with numbers and love learning and exploring new skills.
 
 📂 Complete Projects
-- Here's my [portfolio] (https://github.com/prathmeshjani/PortfolioProjects)
+- Here's my [portfolio](https://github.com/prathmeshjani/PortfolioProjects)
 
 💻 Competencies
 - Data preparation, data manipulation, and data cleansing
