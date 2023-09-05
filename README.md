@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
 
-I’m Prathmesh, an aspiring data analyst with a Big Data study background. I enjoy working with numbers and love learning and exploring new skills.
+I’m Prathmesh Jani, an aspiring data analysis or data science professional who seeking to apply my knowledge to real-world experiences. I enjoy working with numbers and love learning and exploring new skills.
 
 📂 Complete Projects
 - Here's my [portfolio](https://github.com/prathmeshjani/PortfolioProjects)
